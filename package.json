@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apollo-server-core": "^3.10.1",
+    "argon2": "^0.28.7"
+  }
+}

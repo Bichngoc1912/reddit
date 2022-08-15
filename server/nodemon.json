@@ -1,0 +1,6 @@
+{
+  "env": {
+    "NODE_ENV_BD_USERNAME": "bngoc",
+    "NODE_ENV_BD_PASSWORD": "191298"
+  }
+}
